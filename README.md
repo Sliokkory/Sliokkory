@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on companies that are engaged in mobile development for react native or swift. Also interesting is the development of web applications for react, vue
 - 📫 How to reach me:
 
-Telgram: @Marwolaez /n
+Telgram: @Marwolaez
+
 Gmail: sliokkory@gmail.com
